@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/aalavandhaann/blueprint-js.git"
+    "url": ""
   },
-  "author": "#0K Srinivasan <ashok.srinivasan2002@gmail.com> (@aalavandhaann)",
+  "author": "Aakash K(aakash1998kanaujia@gmail.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aalavandhaann/blueprint-js/issues"
+    "url": ""
   },
   "devDependencies": {
     "@thi.ng/geom-hull": "0.0.27",
